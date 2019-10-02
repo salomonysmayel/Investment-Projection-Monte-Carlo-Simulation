@@ -13,5 +13,5 @@ Expenses per category
 |  Transfer  |  20537.34 |  
 | Travel  |  41.52 |
 
-![table](https://github.com/r/bar_chart.PNG "Bar Chart")
+![table](https://github.com/r/Screen Shot 2019-10-01 at 9.05.14 PM.PNG "Bar Chart")
 
