@@ -1,4 +1,5 @@
 # APIs_Homework
+
 #### 1. Budget Analysis: Summarize the transaction data from the budget analysis and include images for each chart and table produced.
 
 Expenses per category
@@ -11,4 +12,6 @@ Expenses per category
 | Shops   |  1500.00 |  
 |  Transfer  |  20537.34 |  
 | Travel  |  41.52 |
+
+![table](https://github.com/r/bar_chart.PNG "Bar Chart")
 
