@@ -30,6 +30,9 @@ The following table summarizes the expenses per month. For the three month the e
 |  August   | 9135.51  |   
 | September   | 9135.51 |  
 
+
+![table](https://github.com/salomonysmayel/APIs_Homework/blob/master/monte_carlo.png "monte_carlo")
+
 ![table](https://github.com/salomonysmayel/APIs_Homework/blob/master/dist.png "dist")
 
 
