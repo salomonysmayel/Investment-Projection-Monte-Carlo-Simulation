@@ -13,5 +13,5 @@ Expenses per category
 |  Transfer  |  20537.34 |  
 | Travel  |  41.52 |
 
-![table](https://github.com/salomonysmayel/APIs_Homework/pie.PNG "pie")
+![table](https://github.com/salomonysmayel/APIs_Homework/blob/master/pie.PNG "pie")
 
