@@ -19,6 +19,8 @@ The biggest expense was Transfer, the least was Travel
 
 ![table](https://github.com/salomonysmayel/APIs_Homework/blob/master/pie.png "pie")
 
+Frequency of each expense category
+
 ![table](https://github.com/salomonysmayel/APIs_Homework/blob/master/bars.png "bars")
 
 
