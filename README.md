@@ -35,4 +35,6 @@ The following table summarizes the expenses per month. For the three month the e
 
 ![table](https://github.com/salomonysmayel/APIs_Homework/blob/master/dist.png "dist")
 
+![table](https://github.com/salomonysmayel/APIs_Homework/blob/master/monte_carlo_3quart.png "monte_carlo_3quart")
+
 
