@@ -13,5 +13,21 @@ Expenses per category
 |  Transfer  |  20537.34 |  
 | Travel  |  41.52 |
 
-![table](https://github.com/salomonysmayel/APIs_Homework/blob/master/pie.PNG "pie")
+
+The biggest expense was Transfer, the least was Travel
+
+
+![table](https://github.com/salomonysmayel/APIs_Homework/blob/master/pie.png "pie")
+
+![table](https://github.com/salomonysmayel/APIs_Homework/blob/master/bars.png "bars")
+
+
+The following table summarizes the expenses per month. For the three month the expenses were $9135.51
+
+|  Month| Expenses  |  
+|-----------|:-------:|
+| July   |  9135.51 |  
+|  August   | 9135.51  |   
+| September   | 9135.51 |  
+
 
