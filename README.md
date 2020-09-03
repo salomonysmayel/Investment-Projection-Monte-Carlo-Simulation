@@ -1,6 +1,6 @@
 # Investment Projection with Monter Carlo Simulation
 
-Tools used on this project:
+Tools and methods used on this project:
 
 Plaid API, IEX API, Monte Carlo Simulation.
 
