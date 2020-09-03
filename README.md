@@ -23,12 +23,11 @@ Expenses per category
 The biggest expense was Transfer, the least was Travel
 
 
-![table](https://github.com/salomonysmayel/APIs_Homework/blob/master/pie.png "pie")
+![supply_chain](/images/pie.png)
 
 Frequency of each expense category
 
-![table](https://github.com/salomonysmayel/APIs_Homework/blob/master/bars.png "bars")
-
+![supply_chain](/images/bars.png)
 
 The following table summarizes the expenses per month. For the three month the expenses were $9135.51
 
@@ -41,12 +40,12 @@ The following table summarizes the expenses per month. For the three month the e
 #### 2. Monte Carlo Simulation
 
 Monte Carlo simulation plot
-![table](https://github.com/salomonysmayel/APIs_Homework/blob/master/3.png "3")
+![supply_chain](/images/3.png)
 
 #### 3. Retirement Plan Forecasting
 
 90% confidence interval for the ending returns
-![table](https://github.com/salomonysmayel/APIs_Homework/blob/master/2.png "2")
+![supply_chain](/images/2.png)
 
 
 Expected cumulative returns at 30 years for the 10th percentile 1.6377228612969736
@@ -63,6 +62,6 @@ A 50% increase in the initial investment would generate a projected retirement a
 
 the cumulative returns for 5th, 50th and 90th percentiles on the simulation
 
-![table](https://github.com/salomonysmayel/APIs_Homework/blob/master/1.png "1")
+![supply_chain](/images/1.png)
 
 
